@@ -1,2 +1,7 @@
 *.pdsbak
 *.pdsprj.*.*.workspace
+*.sts
+*.log
+*.EDF
+*.DO
+bestsave.rte
