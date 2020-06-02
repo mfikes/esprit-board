@@ -1,5 +1,7 @@
 # esprit-board
 
+<img src="Esprit_Rendered.png" align="right" height="210px" hspace="5px"/>
+
 This repository contains the [schematics](esprit-board.PDF), BOM ([CSV](Bill%20Of%20Materials%20Esprit.csv), [PDF](Bill%20Of%20Materials%20Esprit.pdf)), [Gerber files](esprit-board%20-%20CADCAM.ZIP), and [Proteus project](esprit-board.pdsprj) for a ESP32-based board capaple of running ClojureScript. These boards are designed to be used with the [Esprit REPL](https://github.com/mfikes/esprit).
 
 > Note: You don't need to use this particilar board to run ClojureScript. Any ESP32 WROVER with 8 MiB SPIRAM is capable of running a ClojureScript REPL. 
