@@ -10,6 +10,12 @@ The files in this repository are open source. Feel free to use them to understan
 
 If you'd like to buy one pre-assembled they are [available on Tindie](https://www.tindie.com/products/fikesfarm/esprit-clojurescript-repl/).
 
+## USB
+
+The board uses a Silicon Labs CP2102N USB to UART chip. If needed, the drivers for various OSs are available [here](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers).
+
+The board comes with a micro-USB connector.
+
 ## Power / Batteries
 
 The board has circuitry that allows it to run either from power obtained from the micro-USB connetion or from power supplied by a lithium ion polymer ("lipo
