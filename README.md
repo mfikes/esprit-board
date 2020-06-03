@@ -8,7 +8,7 @@ This repository contains the [schematics](esprit-board.PDF), BOM ([CSV](Bill%20O
 
 The files in this repository are open source. Feel free to use them to understand how things work, use the Gerbers and BOM make your own boards, etc.
 
-If you'd like to buy one pre-assembled they are [available on Tindie](https://www.tindie.com/products/fikesfarm/esprit-clojurescript-repl/).
+<a href="https://www.tindie.com/stores/fikesfarm/?ref=offsite_badges&utm_source=sellers_mfikes&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a> If you'd like to buy one pre-assembled they are [available on Tindie](https://www.tindie.com/products/fikesfarm/esprit-clojurescript-repl/).
 
 ## USB
 
