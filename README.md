@@ -14,9 +14,9 @@ The files in this repository are open source. Feel free to use them to understan
 
 <a href="https://www.tindie.com/stores/fikesfarm/?ref=offsite_badges&utm_source=sellers_mfikes&utm_medium=badges&utm_campaign=badge_medium"><img align="right" src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a> If you'd like to buy one pre-assembled and tested they are [available on Tindie](https://www.tindie.com/products/fikesfarm/esprit-clojurescript-repl/).
 
-_The intent is to not profit but instead sustainably make small batches of hand-asembled boards available to the community for fun and experimentation._
-
 > Note: If Tindie indicates they are sold out, we're making more (generally a new batch should be available within a week.)
+
+_The intent is to not profit but instead sustainably make small batches of hand-asembled boards available to the community for fun and experimentation._
 
 ## USB
 
