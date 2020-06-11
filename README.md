@@ -31,6 +31,8 @@ The board has circuitry that allows it to run either from power obtained from th
 
 If you have both USB and a battery connected, the board has an onboard IC (an MCP73833T) that is used to properly charge the lipo battery. In short, it behaves much like a modern cellphone.
 
+As a safety mechanism, an onboard thermistor is included which will suspend battery charging if the board is detected as being too warm.
+
 Here are batteries that have been successfully used with the board:
 
 - [Adafruit 100 mAh][9]
