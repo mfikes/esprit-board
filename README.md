@@ -4,7 +4,7 @@
 
 This repository contains the [schematics][1], BOM ([CSV][2], [PDF][3]), [Gerber files][4], and [Proteus project][5] for a ESP32-based board capaple of running ClojureScript. These boards are designed to be used with the [Esprit REPL][6].
 
-> Note: You don't need to use this particular board to run ClojureScript. Any ESP32 WROVER with 8 MiB SPIRAM is capable of running a ClojureScript REPL. 
+> Note: You don't need to use this particular board to run ClojureScript. Any ESP32 WROVER with 8 MiB SPIRAM and 8 MiB flash is capable of running a ClojureScript REPL. 
 
 ## Make One
 
